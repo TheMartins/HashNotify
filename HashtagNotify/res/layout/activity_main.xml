@@ -27,10 +27,9 @@
         android:id="@+id/textView1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignRight="@+id/editText1"
         android:layout_below="@+id/editText1"
-        android:layout_marginRight="52dp"
-        android:layout_marginTop="95dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="51dp"
         android:text="@string/hello_world" />
 
 </RelativeLayout>
